@@ -1,0 +1,22 @@
+{
+  "name": "proyectos_visual_studio_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarryARG/portfolio-carry.git"
+  },
+  "author": "CarryARG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarryARG/portfolio-carry/issues"
+  },
+  "homepage": "https://github.com/CarryARG/portfolio-carry#readme",
+  "dependencies": {
+    "cloudinary": "^1.41.0"
+  }
+}
